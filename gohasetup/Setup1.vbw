@@ -1,0 +1,15 @@
+frmSetup1 = 164, 100, 611, 388, , 66, 66, 796, 246, 
+basSetup1 = 35, 103, 482, 391, 
+basCommon = 35, 103, 482, 391, 
+basSetupRes = -50, 59, 602, 239, C
+basLogging = 35, 103, 482, 391, C
+frmBegin = 35, 182, 482, 470, C, 22, 22, 752, 202, 
+frmPath = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmMessage = 35, 103, 482, 391, C, 0, 0, 0, 0, C
+frmDskSpace = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmCopy = 35, 103, 482, 391, C, 0, 0, 0, 0, C
+frmRemoteServerDetails = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmGroup = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+PcsModule = 106, 122, 620, 410, 
+basIni = 93, 159, 540, 447, C
+clsPCSFont = 0, 0, 652, 180, 
